@@ -2,14 +2,14 @@
   font-family: Vazir;
   font-weight: 400;
   font-style: normal;
-  src: url(Vazir.ttf);
+  src: url(/assets/Vazir.ttf);
 }
 
 @font-face {
   font-family: Vazir;
   font-weight: 900;
   font-style: normal;
-  src: url(Vazir.ttf);
+  src: url(/assets/Vazir.ttf);
 }
 
 body,
