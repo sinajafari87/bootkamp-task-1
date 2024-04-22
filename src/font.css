@@ -1,0 +1,18 @@
+@font-face {
+  font-family: Vazir;
+  font-weight: 400;
+  font-style: normal;
+  src: url(Vazir.ttf);
+}
+
+@font-face {
+  font-family: Vazir;
+  font-weight: 900;
+  font-style: normal;
+  src: url(Vazir.ttf);
+}
+
+body,
+button {
+  font-family: Vazir;
+}
